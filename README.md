@@ -15,10 +15,10 @@ Ventajas de las clases genéricas:
 1. Reutilización de código: No necesitas crear múltiples versiones de la misma estructura para diferentes tipos de datos.
 2. Seguridad de tipos: Los errores de tipo se detectan en tiempo de compilación, evitando fallos en tiempo de ejecución.
 3. Flexibilidad: Puedes trabajar con cualquier tipo de dato sin limitar la funcionalidad de la clase.
-4. 
+
 ## Interpretacion
 Al poder crear una lista de diferentes datos el codigo no se hace tan extenso, y se evita de programar una infinidad de listas.
 Las clases genericas son muy eficientes a la hora de trabajar con diferentes tipos de datos, y me ayudan a evitar crear varios codigos de ordenamiento o busqueda para cada lista que contiene diferentes tipos de datos.
 
 ## Ejemplo del proyacto
-En este proyecto se inplementa un ejemplo de datos genericos con numeros, palabras y un objeto persona que tiene nombre y edad. POr otro lado se implementara una clase generica con una metodo de ordenamiento burbuja y uno de busqueda binaria.
+En este proyecto se inplementa unas lista de datos genericos con numeros, palabras y un objeto persona que tiene nombre y edad. POr otro lado se implementara una clase generica con una metodo de ordenamiento burbuja y uno de busqueda binaria.
